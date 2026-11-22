@@ -25,9 +25,10 @@ This repository contains my internship report, logbook, and supporting documents
 ## Repository Structure
 
 ```
+├── Presentations/   LCA1, Mid Term and LCA3 presentations
 ├── report/          Final internship report (PDF)
 ├── logbook/         Daily / weekly logbook entries
-├── Certificates/    Offer letter and completion certificate
+├── Certificates/    Offer letter and completion letter
 └── README.md
 ```
 
