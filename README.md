@@ -18,7 +18,7 @@ This repository contains my internship report, logbook, and supporting documents
 |---|---|
 | **Company** | Markytics.AI |
 | **Role / Domain** | Business Analyst and Client Success Intern |
-| **Duration** | 3rd August 2026 – 3rd February 2026 |
+| **Duration** | 3rd August 2026 – 3rd February 2027 |
 | **Industry Mentor** | Shreeyash Jagtap |
 | **College Supervisor** | Anushri Kulkarni  |
 
@@ -41,7 +41,8 @@ This repository contains my internship report, logbook, and supporting documents
 
 ## Brief Summary
 
-[2-3 lines about what you worked on. Example: During this internship, I worked on building and testing web applications using React and Node.js, and gained hands-on experience with version control, team collaboration, and agile workflows.]
+# Business Analyst & Client Success Internship: Markytics.AI
+Internship (Aug 2026 – Feb 2027) on AI voice-bot QA and operational data analytics for NBFC/MFI clients. Used SQL (PostgreSQL/DBeaver) and Excel to validate campaign reports, analyse call dispositions, run three live campaigns, and propose improvements to call flows and dashboard consistency.
 
 ## Contact
 
