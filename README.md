@@ -27,7 +27,7 @@ This repository contains my internship report, logbook, and supporting documents
 ```
 ├── report/          Final internship report (PDF)
 ├── logbook/         Daily / weekly logbook entries
-├── certificates/    Offer letter and completion certificate
+├── Certificates/    Offer letter and completion certificate
 └── README.md
 ```
 
@@ -35,7 +35,8 @@ This repository contains my internship report, logbook, and supporting documents
 
 - **Final Report:** [report/internship-report.pdf](report/internship-report.pdf)
 - **Logbook:** [logbook/](logbook/)
-- **Certificates:** [certificates/](certificates/)
+- **Certificates:** [Certificates/](Certificates/) (offer letter, completion letter)
+- **Presentations:** [Presentations/](Presentations/) (LCA1 ppt, Mid Term ppt , LCA3 ppt)
 
 ## Brief Summary
 
